@@ -28,3 +28,4 @@ endpoints
 /characters/:id
 /wands
 /wands/:id
+
